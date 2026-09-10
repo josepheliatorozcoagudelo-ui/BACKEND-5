@@ -1,0 +1,28 @@
+{
+    "productos":[
+        {
+    "Id": 0,
+    "Nombre": "Caramelo",
+    "Precio": "20.000",
+    "Disponible": true,
+    "Categoria":"Dulces",
+    "Marca relacionada":"Candy"
+  },
+  {
+    "Id": 1,
+    "Nombre": "Galletas",
+    "Precio": "30.000",
+    "Disponible": true,
+    "Categoria":"Dulces",
+    "Marca relacionada":"Milik"
+  },
+  {
+     "Id": 2,
+    "Nombre": "Hamburguesa",
+    "Precio": "50.000",
+    "Disponible": true,
+    "Categoria":"comida rapida",
+    "Marca relacionada":"El Corral"
+  }
+    ]
+}
